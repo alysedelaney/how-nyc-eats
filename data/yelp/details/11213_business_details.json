@@ -1,0 +1,3368 @@
+[
+  {
+    "id": "lXJxcpONv286wNTF_MSaDg",
+    "alias": "the-brooklyn-ribs-and-things-brooklyn",
+    "name": "The Brooklyn Ribs & Things",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/17d3kVq8KO9j6nOmEtTTEg/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/the-brooklyn-ribs-and-things-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17186760423",
+    "display_phone": "(718) 676-0423",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "soulfood",
+        "title": "Soul Food"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "209 Utica Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "209 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Sterling Pl & Park Pl"
+    },
+    "coordinates": {
+      "latitude": 40.6716919,
+      "longitude": -73.9305725
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/17d3kVq8KO9j6nOmEtTTEg/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/MzEKjx9eyNbx4fo_pRMa0w/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/Z0t_b9rZaQ0sGU0gJgt08w/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 4
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "diydvYcaZCZV7vcFomYIuA",
+    "alias": "dean-street-cafe-brooklyn",
+    "name": "Dean Street Cafe",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5GHMA6eps8Rnxnf8AKD6sg/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/dean-street-cafe-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+13473516261",
+    "display_phone": "(347) 351-6261",
+    "review_count": 20,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "kosher",
+        "title": "Kosher"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "87 Utica Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "87 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Dean St & Pacific St"
+    },
+    "coordinates": {
+      "latitude": 40.6759200971399,
+      "longitude": -73.9301699772477
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/phO6FtzxkSJTBBWa7EbWAg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/O9qOaqLMoFdk8Wwibh2xxQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/JZWy07FGUsydRqYYKoOT9w/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1600",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1600",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1600",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1600",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1600",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "SH9dvHo7QI9-sHen9kkVaQ",
+    "alias": "the-party-palace-events-brooklyn",
+    "name": "The Party Palace Events",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L-nydwyffAEnv_58Xw06Lw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-party-palace-events-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17183633900",
+    "display_phone": "(718) 363-3900",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "florists",
+        "title": "Florists"
+      },
+      {
+        "alias": "giftshops",
+        "title": "Gift Shops"
+      },
+      {
+        "alias": "balloonservices",
+        "title": "Balloon Services"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "1412 St Johns Pl",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1412 St Johns Pl",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Schenectady Ave & Utica Ave"
+    },
+    "coordinates": {
+      "latitude": 40.67045,
+      "longitude": -73.93145
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/L-nydwyffAEnv_58Xw06Lw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/MVRb3t4t-7mm9mvOB491XQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/d1liPLjfcAW3yBV29IsvJA/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "eiyNlts1-w-t10WtZOcHlg",
+    "alias": "blue-steel-auto-school-brooklyn-2",
+    "name": "Blue Steel Auto School",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qvBn7_iBfFq4kzr61woBNA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/blue-steel-auto-school-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+13475294549",
+    "display_phone": "(347) 529-4549",
+    "review_count": 122,
+    "categories": [
+      {
+        "alias": "driving_schools",
+        "title": "Driving Schools"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "197 Utica Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "197 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Sterling Pl & Park Pl"
+    },
+    "coordinates": {
+      "latitude": 40.671966,
+      "longitude": -73.930659
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/qvBn7_iBfFq4kzr61woBNA/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/IqkURbM1acE7tSuEQWHIdQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/6c7dwW8vcQ8GSWGTgKEsPQ/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1800",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1600",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "Og2I0MawkVHNiqYJfsNaiA",
+    "alias": "top-class-pest-control-brooklyn-6",
+    "name": "Top Class Pest Control",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VSM-yqYZH-nq3kto-Rtzdw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/top-class-pest-control-brooklyn-6?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187243885",
+    "display_phone": "(718) 724-3885",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "pest_control",
+        "title": "Pest Control"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "136 Utica Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "136 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "St Marks Ave & Bergen St"
+    },
+    "coordinates": {
+      "latitude": 40.67438,
+      "longitude": -73.9308156
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/VSM-yqYZH-nq3kto-Rtzdw/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/nuRUe3ZQY8H2dTVU_j63zQ/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/rPMZkCUHL_OhE9UkRPKvsQ/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1800",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1800",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1800",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1800",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1800",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1600",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "ImuAlnA6czlmBo0VSoSZRw",
+    "alias": "ayanas-restaurant-brooklyn",
+    "name": "Ayana's Restaurant",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/ayanas-restaurant-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17189530226",
+    "display_phone": "(718) 953-0226",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "caribbean",
+        "title": "Caribbean"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "197 Utica Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "197 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Sterling Pl & Park Pl"
+    },
+    "coordinates": {
+      "latitude": 40.67197,
+      "longitude": -73.93068
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "qkZiROEoEmq4KsXK-PInKw",
+    "alias": "interfaith-medical-center-brooklyn-29",
+    "name": "Interfaith Medical Center",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/interfaith-medical-center-brooklyn-29?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17186134000",
+    "display_phone": "(718) 613-4000",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "medcenters",
+        "title": "Medical Centers"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "1545 Atlantic Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1545 Atlantic Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Agate Ct & Troy Ave"
+    },
+    "coordinates": {
+      "latitude": 40.677736259627,
+      "longitude": -73.9357582633445
+    },
+    "photos": [],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "PYvP_2gadhMhj1Rt4z7iVw",
+    "alias": "a-and-r-tax-services-brooklyn",
+    "name": "A & R Tax Services",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/a-and-r-tax-services-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17184843395",
+    "display_phone": "(718) 484-3395",
+    "review_count": 3,
+    "categories": [],
+    "rating": 3.5,
+    "location": {
+      "address1": "133 Kingston Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "133 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.67531,
+      "longitude": -73.9415
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "TVeerET-oFp7CGzcX4Nz4g",
+    "alias": "atlantic-pharmacies-brooklyn",
+    "name": "Atlantic Pharmacies",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UHsAod2jA0IK80o80AtlZQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/atlantic-pharmacies-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17184842260",
+    "display_phone": "(718) 484-2260",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "drugstores",
+        "title": "Drugstores"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "1706 Atlantic Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1706 Atlantic Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Schenectady Ave & Troy Ave"
+    },
+    "coordinates": {
+      "latitude": 40.677204,
+      "longitude": -73.9340748
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/UHsAod2jA0IK80o80AtlZQ/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/uRr1LGWVsfisWBlUHgea1A/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/NxzvMIvlCHcP-Ar1I5KIWw/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "1830",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "1830",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "1830",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "1830",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "1830",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1630",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/TVeerET-oFp7CGzcX4Nz4g?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w#popup%3Araq",
+      "use_case_text": "Message the Business"
+    },
+    "special_hours": [
+      {
+        "date": "2023-12-25",
+        "is_closed": true,
+        "start": null,
+        "end": null,
+        "is_overnight": null
+      },
+      {
+        "date": "2023-12-26",
+        "is_closed": true,
+        "start": null,
+        "end": null,
+        "is_overnight": null
+      }
+    ]
+  },
+  {
+    "id": "1wSvl0bPDU5mdrTQXk249w",
+    "alias": "greenhouse-salad-and-juice-bar-brooklyn",
+    "name": "Greenhouse Salad & Juice Bar",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DtOc3Yqy0KyBlZegbJVKcg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/greenhouse-salad-and-juice-bar-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "8 Kingston Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "8 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Herkimer St & Fulton St"
+    },
+    "coordinates": {
+      "latitude": 40.67969,
+      "longitude": -73.941393
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/DtOc3Yqy0KyBlZegbJVKcg/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/vOsxo63bGJxd-QuEIZg13g/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/WzK5jzay40ZyQ_RNW8S00w/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/1wSvl0bPDU5mdrTQXk249w?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w#popup%3Araq",
+      "use_case_text": "Message the Business"
+    }
+  },
+  {
+    "id": "kmP1n5PIzxFKpVCN_XTUSg",
+    "alias": "juice-n-go-brooklyn",
+    "name": "Juice N' Go",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DVX5-lgkVOS-1DOZEVOz_w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/juice-n-go-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "8 Kingston Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "8 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Herkimer St & Fulton St"
+    },
+    "coordinates": {
+      "latitude": 40.67974,
+      "longitude": -73.941362
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/DVX5-lgkVOS-1DOZEVOz_w/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/IOWehQW0FiNDgoiTANaIpg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/fGjW7-GLjiDhiLBuF_begQ/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/kmP1n5PIzxFKpVCN_XTUSg?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w#popup%3Araq",
+      "use_case_text": "Message the Business"
+    }
+  },
+  {
+    "id": "v8NppIEoFx6WSJqdemjfYQ",
+    "alias": "metro-market-brooklyn",
+    "name": "Metro Market",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/metro-market-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "grocery",
+        "title": "Grocery"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "438 Utica Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "438 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Empire Blvd & Lefferts Ave"
+    },
+    "coordinates": {
+      "latitude": 40.66367937433942,
+      "longitude": -73.9317843
+    },
+    "photos": [],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "zPgZpGOHrsOfrY8GRtaP7w",
+    "alias": "calabria-brooklyn",
+    "name": "Calabria",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/otA3mYFe2oY7TcXJIkUizg/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/calabria-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17185646240",
+    "display_phone": "(718) 564-6240",
+    "review_count": 30,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "kosher",
+        "title": "Kosher"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "266 Kingston Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "266 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.67043,
+      "longitude": -73.94238
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/_UzBNrYihFRYLZMbqSRB1g/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/qudrTyWvAhH3YNeW258wyw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/hOu7g7ZZUKovMOuvavuQ5g/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "2100",
+            "end": "0100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "wIOr4P3X6TwGY79dzXGJZw",
+    "alias": "dial-a-jewish-story-brooklyn",
+    "name": "Dial A Jewish Story",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dial-a-jewish-story-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17184677800",
+    "display_phone": "(718) 467-7800",
+    "review_count": 1,
+    "categories": [],
+    "rating": 5.0,
+    "location": {
+      "address1": "322 Kingston Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "322 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6679179,
+      "longitude": -73.942495
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "aB8-5nszwQoI9ll1No0tuA",
+    "alias": "your-choice-fish-and-chips-brooklyn",
+    "name": "Your Choice Fish & Chips",
+    "image_url": "",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/your-choice-fish-and-chips-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17182212001",
+    "display_phone": "(718) 221-2001",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "fishnchips",
+        "title": "Fish & Chips"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "1171 St Johns Pl",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1171 St Johns Pl",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Hampton Pl & Albany Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6710910052061,
+      "longitude": -73.9395882189274
+    },
+    "photos": [],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 4
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "2RIP3V1FlQiTPbgQ03IRpw",
+    "alias": "jus-by-julie-brooklyn-4",
+    "name": "Jus By Julie",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Zo12OGIzWZyn0qdmMEyXLw/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/jus-by-julie-brooklyn-4?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+13476631388",
+    "display_phone": "(347) 663-1388",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "1090 St Johns Pl",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1090 St Johns Pl",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Brooklyn Ave & Kingston Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6711585937009,
+      "longitude": -73.9424304248105
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/s8J5bQJ9zMO4WvPPKFxNXg/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/4MwaSKaw7DpTGNX-FjOz4w/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/Zo12OGIzWZyn0qdmMEyXLw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "gEEj1NJ2Dut4XSK57NvhHg",
+    "alias": "the-jewish-childrens-museum-brooklyn",
+    "name": "The Jewish Children's Museum",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s9PDiG5poJt-7hnRbQ5tGA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-jewish-childrens-museum-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17184670600",
+    "display_phone": "(718) 467-0600",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "childrensmuseums",
+        "title": "Children's Museums"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "792 Eastern Pkwy",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "792 Eastern Pkwy",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Albany Ave & Kingston Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6689376831055,
+      "longitude": -73.9419631958008
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/s9PDiG5poJt-7hnRbQ5tGA/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/mnabCDGRWKHGrkZTPhjM4A/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/7R4qxPw7oZbqEiJ7S0-jsw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1600",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1600",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1600",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1600",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1730",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "sJHeiWlPL-4Jp5k47ZKrXg",
+    "alias": "kettle-and-cord-brooklyn",
+    "name": "Kettle & Cord",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/urfFRkah2LRJx98oaoKHlw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kettle-and-cord-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187716794",
+    "display_phone": "(718) 771-6794",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "appliances",
+        "title": "Appliances"
+      },
+      {
+        "alias": "kitchenandbath",
+        "title": "Kitchen & Bath"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "390 Kingston Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "390 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6687313212371,
+      "longitude": -73.9420756325126
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/urfFRkah2LRJx98oaoKHlw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "pq4Jy8spfGjoljUYQOCT9Q",
+    "alias": "izzys-fried-chicken-brooklyn",
+    "name": "Izzy's Fried Chicken",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mTF6v2OT9XfsE5xjIck1NQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/izzys-fried-chicken-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17189252242",
+    "display_phone": "(718) 925-2242",
+    "review_count": 21,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "262 Kingston Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "262 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.670552,
+      "longitude": -73.94223681287761
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/GHN_vBLQCLf3Vi0HYqXoFw/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/sOjv04Otkb1634Q_ZkJMug/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/9IMNLw5RYYnrk_zVQU1e0w/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "BI2PbVOOGLnkgcpbWg3_Gw",
+    "alias": "maxwells-restaurant-bar-brooklyn-2",
+    "name": "Maxwell's Restaurant Bar",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WaBRr9BZwJsxvKddsVfEYw/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/maxwells-restaurant-bar-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "lounges",
+        "title": "Lounges"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "259 Kingston Ave",
+      "address2": "Ste A",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "259 Kingston Ave",
+        "Ste A",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.6708771845998,
+      "longitude": -73.9420050073016
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/Ugv7f5sYf7h3Mjg-bRqEiQ/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/hQ4PjpxcBbWciMFlTaRTVQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/F80VpY-qwbgZ2SH96OIt8Q/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0200",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0200",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0200",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0200",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0400",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0400",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0400",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "1jQytvJPPVhKxZ6WDQeF3g",
+    "alias": "energy-fuel-healthy-grill-brooklyn-5",
+    "name": "Energy Fuel Healthy Grill",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bnedOowdfUlEDznMqRgU3g/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/energy-fuel-healthy-grill-brooklyn-5?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 27,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "257 Kingston Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "257 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.6709,
+      "longitude": -73.941839
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/tygEnYL0o8YAiDL4KfG3kg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/iCZbhnGr5zoc46Wfp0vDMg/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/2QaB98GkzYjRa2Sf2is1RQ/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "DTRMJ2rsG0K2NxvEeLbtLA",
+    "alias": "eyeglasses-99-brooklyn",
+    "name": "Eyeglasses 99",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Zh6vwpxs_k3oDZWMdhWQzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/eyeglasses-99-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+19178939010",
+    "display_phone": "(917) 893-9010",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "opticians",
+        "title": "Eyewear & Opticians"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "266 Kingston Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "266 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.670437,
+      "longitude": -73.942411
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/jOr5LOHZ6CoQ4kNQTbISdg/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/sWyX33q1cOT7fgWUoYtdig/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/898kgFIhNmaSLFYA2M1MYA/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "_XwcX7bZABewHvii3kMdLQ",
+    "alias": "fine-fare-supermarket-brooklyn-9",
+    "name": "Fine Fare Supermarket",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fine-fare-supermarket-brooklyn-9?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17183637600",
+    "display_phone": "(718) 363-7600",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "grocery",
+        "title": "Grocery"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "261 Kingston Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "261 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.67076,
+      "longitude": -73.94193
+    },
+    "photos": [],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "gGgGJmHZshT2nKWhwA2bSg",
+    "alias": "tung-cheng-liquors-brooklyn",
+    "name": "Tung Cheng Liquors",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tung-cheng-liquors-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187783588",
+    "display_phone": "(718) 778-3588",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "beer_and_wine",
+        "title": "Beer, Wine & Spirits"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "253 Kingston Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "253 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.67101,
+      "longitude": -73.9419099
+    },
+    "photos": [],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "hf02XnFEDj8s_WzSd04xWA",
+    "alias": "kevs-barber-shop-brooklyn",
+    "name": "Kev's Barber Shop",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kevs-barber-shop-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187786808",
+    "display_phone": "(718) 778-6808",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "barbers",
+        "title": "Barbers"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "845 Empire Blvd",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "845 Empire Blvd",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.66374,
+      "longitude": -73.93404
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "GAIyn6OH1AOaneT0sV4ggw",
+    "alias": "brands-brooklyn-3",
+    "name": "Brands",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zAcrTbDiT2TDyLZn3pmpXg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/brands-brooklyn-3?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+19178938300",
+    "display_phone": "(917) 893-8300",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "menscloth",
+        "title": "Men's Clothing"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "399 Troy Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "399 Troy Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Crown St & Montgomery St"
+    },
+    "coordinates": {
+      "latitude": 40.664806,
+      "longitude": -73.936759
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/zAcrTbDiT2TDyLZn3pmpXg/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1930",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1930",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1930",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1930",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1645",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/GAIyn6OH1AOaneT0sV4ggw?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w#popup%3Araq",
+      "use_case_text": "Message the Business"
+    }
+  },
+  {
+    "id": "EA4-EuN_RjXITnjTfvc9bQ",
+    "alias": "vaad-printing-brooklyn",
+    "name": "Vaad Printing",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zJUf4w5QAkIrlB1NeK3bKw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vaad-printing-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187747200",
+    "display_phone": "(718) 774-7200",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "nonprofit",
+        "title": "Community Service/Non-Profit"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "359 Troy Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "359 Troy Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Carroll St & Crown St"
+    },
+    "coordinates": {
+      "latitude": 40.666072845459,
+      "longitude": -73.9366912841797
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/zJUf4w5QAkIrlB1NeK3bKw/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "i5Y1g2Abm-kIyrOGflDe3g",
+    "alias": "four-saison-vegan-brooklyn-2",
+    "name": "four saison vegan",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dDee4s6Oejzn8C3UFFvV3A/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/four-saison-vegan-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17185136700",
+    "display_phone": "(718) 513-6700",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "315 Utica Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "315 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Union St & President St"
+    },
+    "coordinates": {
+      "latitude": 40.667337,
+      "longitude": -73.931032
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/e1H9N7MH9F3n52pFkqPRFg/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/wccAxvfZhrHJuYQpZwHaiQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/wgo4sq1-bUixBn1_2oOEnw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2230",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2230",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2230",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2230",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "UZ4MDbxxMmS2LbSi17jEUw",
+    "alias": "affordable-massage-in-crown-heights-brooklyn",
+    "name": "Affordable Massage in Crown Heights",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4M79cRy-AvHMCAhGTAlXoA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/affordable-massage-in-crown-heights-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+16463224788",
+    "display_phone": "(646) 322-4788",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "massage_therapy",
+        "title": "Massage Therapy"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "1581 President St",
+      "address2": "Ste 3",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1581 President St",
+        "Ste 3",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Troy Ave & Schenectady Ave"
+    },
+    "coordinates": {
+      "latitude": 40.66754,
+      "longitude": -73.93566
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/4M79cRy-AvHMCAhGTAlXoA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/R6RZBkyYNKcLVzvyXcGVZw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "YeQvR219SNJ8DT91MVcGZQ",
+    "alias": "family-vision-center-brooklyn-2",
+    "name": "Family Vision Center",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/s5atT6SHKtiSS6EFGjiraw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/family-vision-center-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187781234",
+    "display_phone": "(718) 778-1234",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "optometrists",
+        "title": "Optometrists"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "291 Utica Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "291 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.66808,
+      "longitude": -73.93104
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/s5atT6SHKtiSS6EFGjiraw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/5eTVqLOdK6O36JuQvFRtlA/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "G-98YSul5bd86ka1bL_xsA",
+    "alias": "total-by-verizon-brooklyn-3",
+    "name": "Total by Verizon",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/orClV4aGmiU_-QNktCA5dQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/total-by-verizon-brooklyn-3?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+13472402806",
+    "display_phone": "(347) 240-2806",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "mobilephones",
+        "title": "Mobile Phones"
+      },
+      {
+        "alias": "cellphoneaccessories",
+        "title": "Mobile Phone Accessories"
+      },
+      {
+        "alias": "mobilephonerepair",
+        "title": "Mobile Phone Repair"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "271 Utica Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "271 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & Eastern Pky"
+    },
+    "coordinates": {
+      "latitude": 40.6692085,
+      "longitude": -73.930892
+    },
+    "photos": [],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [],
+    "special_hours": [
+      {
+        "date": "2023-12-25",
+        "is_closed": true,
+        "start": null,
+        "end": null,
+        "is_overnight": null
+      }
+    ]
+  },
+  {
+    "id": "_KeK-hhgYZ6SGLO2pIWGgg",
+    "alias": "guyana-gold-and-diamond-brooklyn",
+    "name": "Guyana Gold & Diamond",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/guyana-gold-and-diamond-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187719785",
+    "display_phone": "(718) 771-9785",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "jewelry",
+        "title": "Jewelry"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "271 Utica Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "271 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6692791730165,
+      "longitude": -73.9310131967068
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "ak4KZi4D6LTO-iMKO87Qhw",
+    "alias": "blink-fitness-crown-heights-brooklyn",
+    "name": "Blink Fitness - Crown Heights",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qpIHrGowNGxwos1-bPjVpg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/blink-fitness-crown-heights-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17188445335",
+    "display_phone": "(718) 844-5335",
+    "review_count": 46,
+    "categories": [
+      {
+        "alias": "gyms",
+        "title": "Gyms"
+      },
+      {
+        "alias": "healthtrainers",
+        "title": "Trainers"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "250 Utica Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "250 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.6699992,
+      "longitude": -73.9314095093418
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/6ZYEUQmfXVht39U_hPsAgA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/d4zeVf48KLFJWJUUOn51tw/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/VPexzAerrhN04HfI2v7r_A/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "KC0SE8f9fu98CbHYO3yIsQ",
+    "alias": "dollar-tree-brooklyn-13",
+    "name": "Dollar Tree",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TSCmOH1hGHmma5pwwMDM5Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/dollar-tree-brooklyn-13?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17187733637",
+    "display_phone": "(718) 773-3637",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "discountstore",
+        "title": "Discount Store"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "250 Utica Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "250 Utica Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.669947,
+      "longitude": -73.931405
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/Y0Dfu6jAA2YZa24u089Bag/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/a8Nj4t5W_0P6SvRegO5TYQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/8DU5gGfcoeswJOtvVizbhg/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "meZu67mcUWmTLczhgnquPg",
+    "alias": "my-cousins-place-brooklyn",
+    "name": "My Cousin's Place",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/my-cousins-place-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17183633111",
+    "display_phone": "(718) 363-3111",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "100 Kingston Ave",
+      "address2": "bet. Bergen Street & Dean Street",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11216",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "100 Kingston Ave",
+        "bet. Bergen Street & Dean Street",
+        "Brooklyn, NY 11216"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.676208,
+      "longitude": -73.941787
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "oet6tlLg6aqM6LIwlmYfXQ",
+    "alias": "lotus-creations-academy-brooklyn",
+    "name": "Lotus Creations Academy",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tzGvAAcH2Kq9wPxI9i4lmg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lotus-creations-academy-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+16467517705",
+    "display_phone": "(646) 751-7705",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "dance_schools",
+        "title": "Dance Schools"
+      },
+      {
+        "alias": "theater",
+        "title": "Performing Arts"
+      },
+      {
+        "alias": "dancestudio",
+        "title": "Dance Studios"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "102 Kingston Ave",
+      "address2": "",
+      "address3": "Trilok Fusion Ctr",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "102 Kingston Ave",
+        "Trilok Fusion Ctr",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Dean St & Bergen St"
+    },
+    "coordinates": {
+      "latitude": 40.67615,
+      "longitude": -73.9417
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/tzGvAAcH2Kq9wPxI9i4lmg/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/KNByMclP3ESJ5qh_jU0vrw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/jZ4pFYXvW1u_XEoxRcV-7A/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1930",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "_G71gm0YlQojOhfdhSdVGQ",
+    "alias": "morris-truck-crown-heights",
+    "name": "Morris Truck",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fcONmytx7Sx1TQ--MuEgZw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/morris-truck-crown-heights?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "foodtrucks",
+        "title": "Food Trucks"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "145 Brooklyn Ave",
+      "address2": "",
+      "address3": "Brooklyn Childrens Museum",
+      "city": "Crown Heights",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "145 Brooklyn Ave",
+        "Brooklyn Childrens Museum",
+        "Crown Heights, NY 11213"
+      ],
+      "cross_streets": "Prospect Pl & St Marks Ave"
+    },
+    "coordinates": {
+      "latitude": 40.67443,
+      "longitude": -73.94392
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/fcONmytx7Sx1TQ--MuEgZw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/gqFSDs-BowOlD0kv2FV0EA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/OOACciMItmGL9zioN2pXFA/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "TgIyfUeEWnx9TGzZMbe2Sw",
+    "alias": "git-it-n-git-brooklyn",
+    "name": "Git-It-N'-Git",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/STbAmGyvpF4pGFYuI8pPrQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/git-it-n-git-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 22,
+    "categories": [
+      {
+        "alias": "chicken_wings",
+        "title": "Chicken Wings"
+      },
+      {
+        "alias": "fishnchips",
+        "title": "Fish & Chips"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "1299 Bergen St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1299 Bergen St",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Brooklyn Ave & Kingston Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6757799908025,
+      "longitude": -73.9420099183917
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/B0iCOHeiXdknz9We_tDJow/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/iYv8ofP-qVMe2eGP2VrmZg/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/9JNm5l3iwzZBIVJ6jvGlCA/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "nzPtY_gzMA1wESTp5dwdVA",
+    "alias": "e-dry-cleaners-and-business-brooklyn",
+    "name": "E Dry Cleaners & Business",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/e-dry-cleaners-and-business-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+13477877285",
+    "display_phone": "(347) 787-7285",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "dryclean",
+        "title": "Dry Cleaning"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "105 Kingston Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "105 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Dean St & Bergen St"
+    },
+    "coordinates": {
+      "latitude": 40.67629,
+      "longitude": -73.94141
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "IRXLjD5D43cFfPcKbg_W_A",
+    "alias": "jackmili-thrift-store-brooklyn-2",
+    "name": "Jackmili Thrift Store",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nR9HYi5XkBfM4ASXXfqzBg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jackmili-thrift-store-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+19174141482",
+    "display_phone": "(917) 414-1482",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "antiques",
+        "title": "Antiques"
+      },
+      {
+        "alias": "thrift_stores",
+        "title": "Thrift Stores"
+      },
+      {
+        "alias": "bookstores",
+        "title": "Bookstores"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "239 Kingston Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "239 Kingston Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Sterling Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.67179,
+      "longitude": -73.94183
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/nR9HYi5XkBfM4ASXXfqzBg/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/a863hytGuQjoQZWmbV5xnw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "NzbhiATVseT4SjnXVQdxdw",
+    "alias": "coral-nails-and-spa-brooklyn-8",
+    "name": "Coral Nails & Spa",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uWBMAfaARa7zS1E0XayZZw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/coral-nails-and-spa-brooklyn-8?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+19292345555",
+    "display_phone": "(929) 234-5555",
+    "review_count": 28,
+    "categories": [
+      {
+        "alias": "othersalons",
+        "title": "Nail Salons"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "1342 St Johns Pl",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1342 St Johns Pl",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Troy Ave & Schenectady Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6706,
+      "longitude": -73.93387
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/uWBMAfaARa7zS1E0XayZZw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/ICIzNqTjtZHRM9znKZo6Zw/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/WKYmQ5FkzNi7iasXD6JGuA/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "DjQWozGcbnvLDSjuXG1NXQ",
+    "alias": "china-experience-brooklyn",
+    "name": "China Experience",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/china-experience-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "302 Troy Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "302 Troy Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Union St & Eastern Pky"
+    },
+    "coordinates": {
+      "latitude": 40.6685301661491,
+      "longitude": -73.9367712289095
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "7L6optWJiIvk1CZOO3I0UQ",
+    "alias": "brothers-pizza-parlor-brooklyn",
+    "name": "Brother's Pizza Parlor",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VXrB_tPliXgtEBtYwAQmrw/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/brothers-pizza-parlor-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17184843900",
+    "display_phone": "(718) 484-3900",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "205 Schenectady Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "205 Schenectady Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Sterling Pl & Park Pl"
+    },
+    "coordinates": {
+      "latitude": 40.6719005,
+      "longitude": -73.9335913
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/VXrB_tPliXgtEBtYwAQmrw/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/O_mg18u7R8BLveM1ZGWt2Q/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/HZcCDGOdPqRMIJ7KkyjPTg/o.jpg"
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "aig5vDSwVV0k1akMHjD-eg",
+    "alias": "crown-heights-beauty-salon-brooklyn",
+    "name": "Crown Heights Beauty Salon",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/crown-heights-beauty-salon-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "hair",
+        "title": "Hair Salons"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "249 Schenectady Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11213",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "249 Schenectady Ave",
+        "Brooklyn, NY 11213"
+      ],
+      "cross_streets": "Lincoln Pl & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.670124,
+      "longitude": -73.933532
+    },
+    "photos": [],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  }
+]

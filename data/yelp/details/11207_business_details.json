@@ -1,0 +1,3547 @@
+[
+  {
+    "id": "KCswprD9ljmmEPcmUREYRw",
+    "alias": "patavini-new-york",
+    "name": "Patavini",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rVbVVnFh4ifXTN5KJenkzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/patavini-new-york?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+18458754660",
+    "display_phone": "(845) 875-4660",
+    "review_count": 26,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "1794 Broadway",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10019",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1794 Broadway",
+        "New York, NY 10019"
+      ],
+      "cross_streets": "Columbus Cir & 58th St"
+    },
+    "coordinates": {
+      "latitude": 40.766911,
+      "longitude": -73.9815594
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/uXNzJmofd1Xz59eBvyt-Nw/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/c_HMn2DqymaJfLA25PQ-8g/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/GgsU-Q0y_JWWhcxAbeFAOg/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "vRQ9kCcXmgYpRCYPTkC_VA",
+    "alias": "magnolia-bakery-central-park-south-new-york",
+    "name": "Magnolia Bakery Central Park South",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QQ2uATJKK_lypiJu7ynWzQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/magnolia-bakery-central-park-south-new-york?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+16469083838",
+    "display_phone": "(646) 908-3838",
+    "review_count": 111,
+    "categories": [
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "cupcakes",
+        "title": "Cupcakes"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "1794 Broadway",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10019",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1794 Broadway",
+        "New York, NY 10019"
+      ],
+      "cross_streets": "Columbus Cir & 58th St"
+    },
+    "coordinates": {
+      "latitude": 40.76725814782285,
+      "longitude": -73.98145644494168
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/QQ2uATJKK_lypiJu7ynWzQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/BaZkDWJS8FX8hAhl3v2CKQ/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ar6N6fuSdvYqDuU0lZ_1iA/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2330",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2330",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "SD2iR08Gsvuzb2vON2ThPA",
+    "alias": "triple-js-grocery-brooklyn",
+    "name": "Triple J's Grocery",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/triple-js-grocery-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184535183",
+    "display_phone": "(718) 453-5183",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "grocery",
+        "title": "Grocery"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "1459 Bushwick Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1459 Bushwick Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Chauncey St & Pilling St"
+    },
+    "coordinates": {
+      "latitude": 40.68388,
+      "longitude": -73.90786
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "EZWREin4LUaa0DEKvfrfOA",
+    "alias": "squar-pix-brooklyn-3",
+    "name": "squar-pix",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/baYkQlFB5cq9lZGjj1GMxA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/squar-pix-brooklyn-3?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+18885864749",
+    "display_phone": "(888) 586-4749",
+    "review_count": 98,
+    "categories": [
+      {
+        "alias": "copyshops",
+        "title": "Printing Services"
+      },
+      {
+        "alias": "screen_printing_tshirt_printing",
+        "title": "Screen Printing/T-Shirt Printing"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "1717 Broadway",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1717 Broadway",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Cooper St & Rockaway Ave"
+    },
+    "coordinates": {
+      "latitude": 40.683593,
+      "longitude": -73.911155
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/baYkQlFB5cq9lZGjj1GMxA/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/yOmCH8zfscJ4uuPZ4BWDvA/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/d6ga88lcETU6MFdFYMt16g/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 4
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "xG2i2P3t3NxtliOi5rd17A",
+    "alias": "lucys-beauty-salon-brooklyn",
+    "name": "Lucy's Beauty Salon",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q9QTxa_yRrRZELyVUix8bw/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/lucys-beauty-salon-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "hair",
+        "title": "Hair Salons"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "1363 Bushwick Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1363 Bushwick Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Schaefer St & Decatur St"
+    },
+    "coordinates": {
+      "latitude": 40.685665,
+      "longitude": -73.910774
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/q9QTxa_yRrRZELyVUix8bw/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "fm0YjQHqP4JXfmOumo7j_g",
+    "alias": "images-pharmacy-brooklyn",
+    "name": "Images Pharmacy",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/images-pharmacy-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184555065",
+    "display_phone": "(718) 455-5065",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "drugstores",
+        "title": "Drugstores"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "1383 Bushwick Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1383 Bushwick Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6852,
+      "longitude": -73.91019
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "UgBsX-i5pijBMVXfa79CQQ",
+    "alias": "yuca-restaurant-brooklyn",
+    "name": "Yuca Restaurant",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A3Zzag0yFO2qrtYN67UDtg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yuca-restaurant-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13477872539",
+    "display_phone": "(347) 787-2539",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "importedfood",
+        "title": "Imported Food"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "109 Moffat St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "109 Moffat St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Bushwick Ave & Evergreen Ave"
+    },
+    "coordinates": {
+      "latitude": 40.685997,
+      "longitude": -73.908264
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/A3Zzag0yFO2qrtYN67UDtg/o.jpg"
+    ],
+    "price": "$",
+    "transactions": []
+  },
+  {
+    "id": "rhrqZDvPejtAlh_p8kg_hw",
+    "alias": "little-munchies-brooklyn",
+    "name": "Little Munchies",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Zg18JMr_u_NydSMyFyZo9Q/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/little-munchies-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184556555",
+    "display_phone": "(718) 455-6555",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "734 Evergreen Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "734 Evergreen Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Chauncey St & Cooper St"
+    },
+    "coordinates": {
+      "latitude": 40.6866188049316,
+      "longitude": -73.9094848632812
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/sjrOQNaU3rMsm10c4fiFrw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/WolJTZL1w0L39er3sOAeUA/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/dBddFZazN12_kJ_aN_AP6Q/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2230",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "-dJTbq6zwcEHNIxE3SVjhg",
+    "alias": "covert-coffee-brooklyn",
+    "name": "Covert Coffee",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1zN386eCHZH_tS1aG7RqIQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/covert-coffee-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184841555",
+    "display_phone": "(718) 484-1555",
+    "review_count": 77,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "1643 Broadway",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1643 Broadway",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Eldert St & Covert St"
+    },
+    "coordinates": {
+      "latitude": 40.6849857702632,
+      "longitude": -73.9138240426399
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/YUbiy-xunRJ53g_uPp6Xpw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/MkLDR6QJHYtDFylyfbwdwQ/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/Dqr0iSfBLZb0Au57f8LeJA/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1800",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "HTgGudzk9Au4Qa6UcAffRQ",
+    "alias": "sams-nail-group-brooklyn",
+    "name": "Sams Nail Group",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u5Mx-yUgaF9O0M1Uro2VWg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sams-nail-group-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184552968",
+    "display_phone": "(718) 455-2968",
+    "review_count": 12,
+    "categories": [
+      {
+        "alias": "othersalons",
+        "title": "Nail Salons"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "1699 Broadway",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1699 Broadway",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.68396,
+      "longitude": -73.91189
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/u5Mx-yUgaF9O0M1Uro2VWg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/_09CLNfTSox_FtFhcRC-QQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/qsRbfo_6GOOqFuCuXVCZLg/o.jpg"
+    ],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "5VFuLOWRFnFoNzKLGDhjpQ",
+    "alias": "harris-water-main-and-sewer-contractors-brooklyn-3",
+    "name": "Harris Water Main & Sewer Contractors",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YSJiD7u0qdmPDGGhPJniwQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/harris-water-main-and-sewer-contractors-brooklyn-3?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184953600",
+    "display_phone": "(718) 495-3600",
+    "review_count": 40,
+    "categories": [
+      {
+        "alias": "plumbing",
+        "title": "Plumbing"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "2600 Atlantic Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2600 Atlantic Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Sheffield Ave & Georgia Ave"
+    },
+    "coordinates": {
+      "latitude": 40.67548,
+      "longitude": -73.8983
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/YSJiD7u0qdmPDGGhPJniwQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/r6hSnggsLDqBRz0woxu08A/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/WTRSNPhlEBN2F_CQbwEo7g/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0400",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/5VFuLOWRFnFoNzKLGDhjpQ?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA#popup%3Araq",
+      "use_case_text": "Request a Quote"
+    }
+  },
+  {
+    "id": "BEDOKXoFuVX1BJTR1V0ZJg",
+    "alias": "rajan-nabe-brooklyn",
+    "name": "Rajan Nabe",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rajan-nabe-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184558053",
+    "display_phone": "(718) 455-8053",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "servicestations",
+        "title": "Gas Stations"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "1610 Bushwick Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1610 Bushwick Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.68052,
+      "longitude": -73.90331
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "YIsdBHqeZqbuCFy_HKlIeQ",
+    "alias": "dunkin-brooklyn-140",
+    "name": "Dunkin'",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Bh4Oyb7WxHHaHKbudLcg3w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dunkin-brooklyn-140?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17185746044",
+    "display_phone": "(718) 574-6044",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "donuts",
+        "title": "Donuts"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "1610 Bushwick Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1610 Bushwick Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.68045757558802,
+      "longitude": -73.90341752810299
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/Bh4Oyb7WxHHaHKbudLcg3w/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/08hINVur3RDOcNZYYvVyAA/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/Dc4XcsKncuNgCtAy4LAg5g/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery"
+    ]
+  },
+  {
+    "id": "hVKTB5gGboOw16EAenho-A",
+    "alias": "mta-liberty-av-subway-station-c-east-new-york",
+    "name": "MTA - Liberty Av Subway Station - C",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yjJygcEadPo3-iug8ME_Dg/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mta-liberty-av-subway-station-c-east-new-york?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "metrostations",
+        "title": "Metro Stations"
+      },
+      {
+        "alias": "publictransport",
+        "title": "Public Transportation"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "141 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "East New York",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "141 Pennsylvania Ave",
+        "East New York, NY 11207"
+      ],
+      "cross_streets": "Liberty Ave & Glenmore Ave"
+    },
+    "coordinates": {
+      "latitude": 40.67428,
+      "longitude": -73.89627
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/yjJygcEadPo3-iug8ME_Dg/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/AQdzg0F5jMxnlNgubnNzTA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/QsFcaCnG34YKWBrmCfktyw/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "F5T1HMAb5iRBFrIOcz7e3w",
+    "alias": "liu-garden-brooklyn-2",
+    "name": "Liu Garden",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e-nndyq2iNXSeWAaAEptXw/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/liu-garden-brooklyn-2?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17189196067",
+    "display_phone": "(718) 919-6067",
+    "review_count": 22,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "560 Wilson Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "560 Wilson Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Covert St & Halsey St"
+    },
+    "coordinates": {
+      "latitude": 40.69085,
+      "longitude": -73.90862
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/DkfqrNQAcB_555XCvwQl5w/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ZjhaiXPnFEq6Y-rc9EFXrQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/nAwUmiCsp-GSZDgH2j1QRQ/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "ZIYLdMuDkKaCvSqBJunySw",
+    "alias": "rimco-pharmacy-brooklyn",
+    "name": "Rimco Pharmacy",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rimco-pharmacy-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17189199131",
+    "display_phone": "(718) 919-9131",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "drugstores",
+        "title": "Drugstores"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "610 Wilson Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "610 Wilson Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.68994279437375,
+      "longitude": -73.90654941943089
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "8ESubjlWnlL3cxtJUn_PrQ",
+    "alias": "boardwalk-wines-and-spirits-brooklyn",
+    "name": "Boardwalk Wines & Spirits",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/D7wJ1kNP1OzmA-nKtcucjQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/boardwalk-wines-and-spirits-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13473654369",
+    "display_phone": "(347) 365-4369",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "beer_and_wine",
+        "title": "Beer, Wine & Spirits"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "1195 Halsey St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1195 Halsey St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Central Ave & Wilson Ave"
+    },
+    "coordinates": {
+      "latitude": 40.69136895133,
+      "longitude": -73.9097955353495
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/D7wJ1kNP1OzmA-nKtcucjQ/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ZpE7ai63K287KONNMa094A/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/JBrg4hj-fY5widCAvNDxVg/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery",
+      "pickup"
+    ]
+  },
+  {
+    "id": "aUfzV3CAjRmArOUI9i-1Ng",
+    "alias": "the-ave-lunch-box-brooklyn",
+    "name": "The Ave Lunch Box",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E1moPUNKagv6XGuUzA6cPA/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/the-ave-lunch-box-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "latin",
+        "title": "Latin American"
+      },
+      {
+        "alias": "spanish",
+        "title": "Spanish"
+      }
+    ],
+    "rating": 4.5,
+    "location": {
+      "address1": "587 Wilson Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "587 Wilson Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Covert St & Schaefer St"
+    },
+    "coordinates": {
+      "latitude": 40.6908441,
+      "longitude": -73.9081203
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/hhhyWuvcb9qMF0AJmung9Q/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/bW8SrO1CWB65NTAazIlQ6w/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/gEOGyLy8ehmEXhT0QvoD5A/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "Uk_At2mVgHhMvIJx8zo7tw",
+    "alias": "froilan-cafe-lounge-brooklyn",
+    "name": "Froilan Cafe Lounge",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YN0WOc6_642m04Iwkaev1w/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/froilan-cafe-lounge-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17186761291",
+    "display_phone": "(718) 676-1291",
+    "review_count": 17,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "614 Wilson Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "614 Wilson Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Schaefer St & Cooper St"
+    },
+    "coordinates": {
+      "latitude": 40.689459,
+      "longitude": -73.906457
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/qMGR3v8oeGbkMPZ7k-Zv6w/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/mUFu3NmPqoFXkPWl8bq6sg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/aTLhB_Xmnw_WWNqipjrFGg/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0100",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0100",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0100",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0100",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0300",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0300",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "1200",
+            "end": "0200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "TFU8zWF2gdJzTIpmqWtzcg",
+    "alias": "bushwick-post-brooklyn",
+    "name": "Bushwick Post",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZIlyLuReA3WmMtl34KvLwg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bushwick-post-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17186764336",
+    "display_phone": "(718) 676-4336",
+    "review_count": 57,
+    "categories": [
+      {
+        "alias": "mailboxcenters",
+        "title": "Mailbox Centers"
+      },
+      {
+        "alias": "shipping_centers",
+        "title": "Shipping Centers"
+      },
+      {
+        "alias": "packingsupplies",
+        "title": "Packing Supplies"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "620 Wilson Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "620 Wilson Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Schaefer St & Cooper St"
+    },
+    "coordinates": {
+      "latitude": 40.6895181644546,
+      "longitude": -73.9060941338539
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/ZIlyLuReA3WmMtl34KvLwg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/kGh3U8RxJMYrkuIK8-qwrw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/TDxeKra39TeI9xZ8l56-Pw/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "a12qdZoPibcPLn34amyQQw",
+    "alias": "golden-krust-brooklyn-11",
+    "name": "Golden Krust",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/golden-krust-brooklyn-11?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13477872045",
+    "display_phone": "(347) 787-2045",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "grocery",
+        "title": "Grocery"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "621 Livonia Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "621 Livonia Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Pennsylvania Ave & Sheffield Ave"
+    },
+    "coordinates": {
+      "latitude": 40.66485,
+      "longitude": -73.8944
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "i239minqoed_9R9GJeENFw",
+    "alias": "heavenly-miracles-academy-brooklyn",
+    "name": "Heavenly Miracles Academy",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E51eavVsa4qXI2u9KRsuDQ/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/heavenly-miracles-academy-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17184959383",
+    "display_phone": "(718) 495-9383",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "childcare",
+        "title": "Child Care & Day Care"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "533 Blake Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "533 Blake Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Hinsdale St & Williams Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6673175,
+      "longitude": -73.8992237
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/E51eavVsa4qXI2u9KRsuDQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/SLLPmzGEEbjHXP5nUUC3lw/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "8Wk-oJ4Yrb0G9Skf57w-8g",
+    "alias": "blue-mountain-cafe-restaurant-and-bakery-brooklyn",
+    "name": "Blue Mountain Cafe Restaurant & Bakery",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/blue-mountain-cafe-restaurant-and-bakery-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17183425850",
+    "display_phone": "(718) 342-5850",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "caribbean",
+        "title": "Caribbean"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "1377 E New York Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11212",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1377 E New York Avenue",
+        "Brooklyn, NY 11212"
+      ],
+      "cross_streets": "Strauss St & St Johns Pl"
+    },
+    "coordinates": {
+      "latitude": 40.6694641113281,
+      "longitude": -73.9176177978516
+    },
+    "photos": [],
+    "price": "$",
+    "transactions": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "tsHZljii5yENi19Pq-W6-w",
+    "alias": "wash-o-matic-linden-boulevard-brooklyn",
+    "name": "Wash-O-Matic Linden Boulevard",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X8Tj9Lw1q91QUcOk7QNAfA/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/wash-o-matic-linden-boulevard-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13476272233",
+    "display_phone": "(347) 627-2233",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "laundryservices",
+        "title": "Laundry Services"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "2090 Linden Boulevard",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2090 Linden Boulevard",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Hendrix St & Van Siclen Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6606189906597,
+      "longitude": -73.8853371888399
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/GZT9bxdHfPKRbylsXE6JtA/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/I9v3LyL6XxNcmA50ctM2Sw/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/guvJCTXdS1RIFkk2-BGXVw/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "XNU64ZB1s1H_TavbDjO2cg",
+    "alias": "steve-and-mike-pizzeria-brooklyn",
+    "name": "Steve and Mike Pizzeria",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/steve-and-mike-pizzeria-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17185985566",
+    "display_phone": "(718) 598-5566",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "603 Sutter Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "603 Sutter Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Sheffield Ave & Georgia Ave"
+    },
+    "coordinates": {
+      "latitude": 40.669349,
+      "longitude": -73.896667
+    },
+    "photos": [],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "xn_nZOlgfs9w5_giuSAwnQ",
+    "alias": "pizza-hut-brooklyn-15",
+    "name": "Pizza Hut",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rtrq_W-F7zoINodssb6q_A/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/pizza-hut-brooklyn-15?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182571454",
+    "display_phone": "(718) 257-1454",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "chicken_wings",
+        "title": "Chicken Wings"
+      }
+    ],
+    "rating": 1.5,
+    "location": {
+      "address1": "11114 Flatlands Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "11114 Flatlands Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Louisiana Ave & Williams Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6507224136312,
+      "longitude": -73.8898399472237
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/KV1mmWcJ9cbVQXnRdtpvmw/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/q4kHvhLnB1KPI9wgd6Bt9w/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/piUpErzQUr4QxYIsC65Odw/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery"
+    ]
+  },
+  {
+    "id": "0PA-iFoDExw2Izrj7Lyq6w",
+    "alias": "flatbush-optical-brooklyn-4",
+    "name": "Flatbush Optical of Flatlands ave",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/flatbush-optical-brooklyn-4?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182579393",
+    "display_phone": "(718) 257-9393",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "optometrists",
+        "title": "Optometrists"
+      },
+      {
+        "alias": "opticians",
+        "title": "Eyewear & Opticians"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "11122 Flatlands Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "11122 Flatlands Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6501244,
+      "longitude": -73.8908353
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "8kNFUr86_vaTvfubg3EyMQ",
+    "alias": "five-star-fish-and-chips-the-taste-of-miami-brooklyn",
+    "name": "Five Star Fish & Chips the Taste of Miami",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4J16mU0ZiE5F7BJOxHMDTQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/five-star-fish-and-chips-the-taste-of-miami-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 32,
+    "categories": [
+      {
+        "alias": "fishnchips",
+        "title": "Fish & Chips"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "521 Stanley Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "521 Stanley Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Pennsylvania Ave & Newjersey Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6573005,
+      "longitude": -73.889033
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/DmzKZaimV6NDHLssle7TWA/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/QXkIkhJZ4pwU1Y9rFEF4Pg/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/hIqoC4n53VPcLDOkSV3KWA/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "S6sXley02hh1_pGo8TjqLg",
+    "alias": "sprint-store-by-mobile-city-ny-brooklyn-8",
+    "name": "Sprint Store by Mobile City NY",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Eeo6_bE3hmtu4OPw2zv84w/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/sprint-store-by-mobile-city-ny-brooklyn-8?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182574122",
+    "display_phone": "(718) 257-4122",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "mobilephones",
+        "title": "Mobile Phones"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "938 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "938 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Wortman Ave & Cozine Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6558605280014,
+      "longitude": -73.8884369611309
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/CT8QLu9xb-zNs1iqfixIJQ/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/F4EopXIq4uwoOMz55QOD8g/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/_zfxPKq1W4WQSg5GT0q9jA/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1800",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "cLEFyExZY7_rcfl2tZhaVQ",
+    "alias": "burger-king-brooklyn-27",
+    "name": "Burger King",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lVEJKpNBgofydqYrQ0eEXQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/burger-king-brooklyn-27?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "1940 Linden Blvd",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1940 Linden Blvd",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Pennsylvania Ave & New Jersey Ave"
+    },
+    "coordinates": {
+      "latitude": 40.65844671830746,
+      "longitude": -73.89000641780406
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/A4kxv17kX7jLIyc8rfG8SQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/A-yz8yFUrhDQqZiw1ODc4A/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/XCzIOzPJrmh_oMQEYcCRyw/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "0700",
+            "end": "0100",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "0700",
+            "end": "0100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "delivery"
+    ]
+  },
+  {
+    "id": "OD-RU_RGHRggQh1k9fDedw",
+    "alias": "advance-auto-parts-brooklyn-6",
+    "name": "Advance Auto Parts",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yNvhI4TT7p5DHrttk7w1rw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/advance-auto-parts-brooklyn-6?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182727170",
+    "display_phone": "(718) 272-7170",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "autopartssupplies",
+        "title": "Auto Parts & Supplies"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "832 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "832 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Stanley Ave & Linden Blvd"
+    },
+    "coordinates": {
+      "latitude": 40.65724,
+      "longitude": -73.89017
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/yNvhI4TT7p5DHrttk7w1rw/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/2unnLFItcp5WKh4WSiBVZQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/61QQ4XEFtc-gonYuB1uEGw/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "Q3H5Ggh_moayO38JHYNrAQ",
+    "alias": "best-auto-spa-brooklyn-3",
+    "name": "best auto spa",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2LJ4ZkjZJyNuUwxuqAF_Aw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/best-auto-spa-brooklyn-3?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17189272400",
+    "display_phone": "(718) 927-2400",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "carwash",
+        "title": "Car Wash"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "810 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "810 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Linden Blvd & Stanley Ave"
+    },
+    "coordinates": {
+      "latitude": 40.65766909121613,
+      "longitude": -73.89001569999999
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/2LJ4ZkjZJyNuUwxuqAF_Aw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/g6IKLhfFnkriK1ibnUbe5w/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/VzhRNkuEKQOEGT6uQDDMqA/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "fUeE-xGURGhZ0AqAEsbGuw",
+    "alias": "fancy-nails-brooklyn",
+    "name": "Fancy Nails",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fancy-nails-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17186495688",
+    "display_phone": "(718) 649-5688",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "othersalons",
+        "title": "Nail Salons"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "1111 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1111 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6534782797098,
+      "longitude": -73.8866494596004
+    },
+    "photos": [],
+    "price": "$",
+    "transactions": []
+  },
+  {
+    "id": "gyaUGTSSD1Qwjt7RpOwK2w",
+    "alias": "walgreens-brooklyn-47",
+    "name": "Walgreens",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vPS7VHbhVRdYFruVgpX5ng/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/walgreens-brooklyn-47?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182720346",
+    "display_phone": "(718) 272-0346",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "drugstores",
+        "title": "Drugstores"
+      },
+      {
+        "alias": "cosmetics",
+        "title": "Cosmetics & Beauty Supply"
+      },
+      {
+        "alias": "convenience",
+        "title": "Convenience Stores"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "1111 Pennsylvania Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1111 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Flatlands Ave & Cozine Ave"
+    },
+    "coordinates": {
+      "latitude": 40.65401,
+      "longitude": -73.88698
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/vPS7VHbhVRdYFruVgpX5ng/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "wBdwKW40xHY0Sr7qQuPjRA",
+    "alias": "cricket-wireless-authorized-retailer-brooklyn-7",
+    "name": "Cricket Wireless Authorized Retailer",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jmL6KZVCDQzkUYDYJDzY6w/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/cricket-wireless-authorized-retailer-brooklyn-7?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13477027200",
+    "display_phone": "(347) 702-7200",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "electronics",
+        "title": "Electronics"
+      },
+      {
+        "alias": "mobilephones",
+        "title": "Mobile Phones"
+      },
+      {
+        "alias": "cellphoneaccessories",
+        "title": "Mobile Phone Accessories"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "943 Pennsylvania Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "943 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Wortman Ave & Cozine Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6553307,
+      "longitude": -73.8879089
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/g1JnDbOsWio1Fo8Enqk6VQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/abQgJl6x1688aZZ5TlFigA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/eWoUGBbgit7vJaG5rzZEVg/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1730",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "1730",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "1730",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "1730",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "1730",
+            "day": 4
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "xW3cJP0GU7ioJAWS-im3nA",
+    "alias": "dennys-brooklyn-2",
+    "name": "Denny's",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XVQPL_nt9xFVhrCBovNJNA/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/dennys-brooklyn-2?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182720301",
+    "display_phone": "(718) 272-0301",
+    "review_count": 220,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "diners",
+        "title": "Diners"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "805 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "805 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Linden Blvd & Stanley Ave"
+    },
+    "coordinates": {
+      "latitude": 40.658182,
+      "longitude": -73.889852
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ag4mX7m6aWGNN5SUqwqcBw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/PsYsF8IN0eGx4G6OOz9Aig/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/uaO0428eJKsVjQdc1wsfdQ/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "sSYgJAUvnrx1yNofzzhqHA",
+    "alias": "ez-nails-brooklyn",
+    "name": "EZ NAILS",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9hkUmW99rUve3GJwthiQKw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ez-nails-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182725830",
+    "display_phone": "(718) 272-5830",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "othersalons",
+        "title": "Nail Salons"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "949A Pennsylvania Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "949A Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Wortman Ave & Cozine Ave"
+    },
+    "coordinates": {
+      "latitude": 40.65502,
+      "longitude": -73.88746
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/9hkUmW99rUve3GJwthiQKw/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/bhCxG7Hma_aqlq74jbCq4Q/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/Q6YtyyNFDcjTb7_AacjeHw/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1800",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "p2jtzwGQVEnXrW2iq1AqRw",
+    "alias": "johns-beauty-supply-brooklyn",
+    "name": "John's Beauty Supply",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/johns-beauty-supply-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17189270222",
+    "display_phone": "(718) 927-0222",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "cosmetics",
+        "title": "Cosmetics & Beauty Supply"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "837 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "837 Pennsylvania Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Linden Blvd & Stanley Ave"
+    },
+    "coordinates": {
+      "latitude": 40.65725,
+      "longitude": -73.88937
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "nlMaQ_LClr3e05WpI68jwA",
+    "alias": "multicolor-paint-and-hardware-brooklyn",
+    "name": "Multicolor Paint & Hardware",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-S7SnD_PUDIU5_E88b5CqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/multicolor-paint-and-hardware-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182577017",
+    "display_phone": "(718) 257-7017",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "hardware",
+        "title": "Hardware Stores"
+      },
+      {
+        "alias": "paintstores",
+        "title": "Paint Stores"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "349 New Lots Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "349 New Lots Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Pennsylvania Ave & Sheffield Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6616349,
+      "longitude": -73.894109
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/-S7SnD_PUDIU5_E88b5CqA/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/fh80dZ0Om-MjSpz8HsgoEw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/KlBez5jVKQt_fndwUeaZDA/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1600",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "aHohxGtupAo1qUriLI1vGw",
+    "alias": "health-mart-pitkin-pharmacy-brooklyn",
+    "name": "Health Mart Pitkin Pharmacy",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OtzedFHUrJ39SfoaVnYoJQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/health-mart-pitkin-pharmacy-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13479555506",
+    "display_phone": "(347) 955-5506",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "drugstores",
+        "title": "Drugstores"
+      }
+    ],
+    "rating": 1.0,
+    "location": {
+      "address1": "2232 Pitkin Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2232 Pitkin Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Hendrix St & Van Siclen Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6725382494679,
+      "longitude": -73.8899421691895
+    },
+    "photos": [],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "c-c8AJkjd2Cdr00xDHMmmA",
+    "alias": "piggys-brooklyn",
+    "name": "Piggy's",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/piggys-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17186490030",
+    "display_phone": "(718) 649-0030",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "restaurants",
+        "title": "Restaurants"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "754 New Lots Ave",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "754 New Lots Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.66616,
+      "longitude": -73.8826
+    },
+    "photos": [],
+    "transactions": []
+  },
+  {
+    "id": "6KpZRJcdd5WhdiluPLvxZw",
+    "alias": "spotlight-events-bk-brooklyn",
+    "name": "Spotlight Events BK",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FWjgkEO4OK_FqDqAdB97og/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/spotlight-events-bk-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+16467604169",
+    "display_phone": "(646) 760-4169",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "eventplanning",
+        "title": "Party & Event Planning"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "745 New Lots Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "745 New Lots Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Warwick St & Ashford St"
+    },
+    "coordinates": {
+      "latitude": 40.6661269,
+      "longitude": -73.8835715
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/FWjgkEO4OK_FqDqAdB97og/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/ESYwVWmP60flXxny8OmNtg/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/LJ1_gxfDbE_f7sXfFzu1eg/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/6KpZRJcdd5WhdiluPLvxZw?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA#popup%3Araq",
+      "use_case_text": "Request Information"
+    }
+  },
+  {
+    "id": "J8VDqHCEOLjmQGWw5Zv_xA",
+    "alias": "marias-international-restaurant-brooklyn",
+    "name": "Maria's International Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cTh5_WrbogGnl52OBieIYw/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/marias-international-restaurant-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "importedfood",
+        "title": "Imported Food"
+      }
+    ],
+    "rating": 1.5,
+    "location": {
+      "address1": "2896 Fulton St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2896 Fulton St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Jerome St & Warwick St"
+    },
+    "coordinates": {
+      "latitude": 40.67874,
+      "longitude": -73.8877
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/8H2VpsmZjiCF1kY0Wd_HOw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/cTh5_WrbogGnl52OBieIYw/o.jpg"
+    ],
+    "price": "$$",
+    "transactions": [
+      "pickup",
+      "delivery"
+    ]
+  },
+  {
+    "id": "BtAzZGPzCjGI2L-oy5xFKA",
+    "alias": "dance-atlantic-brooklyn-5",
+    "name": "Dance Atlantic",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w-dbAwj3a-ib-Sc1atS2IQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dance-atlantic-brooklyn-5?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17189425744",
+    "display_phone": "(718) 942-5744",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "theater",
+        "title": "Performing Arts"
+      },
+      {
+        "alias": "dancestudio",
+        "title": "Dance Studios"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "2796 Fulton St",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2796 Fulton St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Miller Ave & Van Siclen Ave"
+    },
+    "coordinates": {
+      "latitude": 40.6780265079797,
+      "longitude": -73.8913094713705
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/w-dbAwj3a-ib-Sc1atS2IQ/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/_elWhwa2uOwSNUQCxpZvmg/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/i0fbiz3WwwdgnFccdZZ0SQ/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1630",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "UtrZlykhTb8oZGh-Qc2AoA",
+    "alias": "erics-cuts-brooklyn",
+    "name": "Eric's Cuts",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/erics-cuts-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182772530",
+    "display_phone": "(718) 277-2530",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "barbers",
+        "title": "Barbers"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "2830 Fulton St",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2830 Fulton St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.67808,
+      "longitude": -73.89012
+    },
+    "photos": [],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "uWesswDNhutLYBPEoMBcPA",
+    "alias": "fish-and-wings-brooklyn",
+    "name": "Fish and Wings",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/fish-and-wings-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+13472404141",
+    "display_phone": "(347) 240-4141",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "soulfood",
+        "title": "Soul Food"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "2928 Atlantic Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2928 Atlantic Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Ashford St & Warwick St"
+    },
+    "coordinates": {
+      "latitude": 40.677212,
+      "longitude": -73.886238
+    },
+    "photos": [],
+    "price": "$",
+    "transactions": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "bfIstHy0v8GoUSsyzYQGSQ",
+    "alias": "continental-restaurant-brooklyn-2",
+    "name": "Continental Restaurant",
+    "image_url": "",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/continental-restaurant-brooklyn-2?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182772812",
+    "display_phone": "(718) 277-2812",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "latin",
+        "title": "Latin American"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "2937 Atlantic Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2937 Atlantic Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Ashford St & Cleveland St"
+    },
+    "coordinates": {
+      "latitude": 40.67795,
+      "longitude": -73.88583
+    },
+    "photos": [],
+    "price": "$$",
+    "transactions": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "8Ypy5fUMQHjIBJVOPZY6fQ",
+    "alias": "la-suprema-bakery-restaurant-brooklyn",
+    "name": "La Suprema Bakery Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F6Avu8eH9lFMJClzqNaiAw/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/la-suprema-bakery-restaurant-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17189641698",
+    "display_phone": "(718) 964-1698",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "2942 Fulton St",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2942 Fulton St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Ashford St & Cleveland St"
+    },
+    "coordinates": {
+      "latitude": 40.679258,
+      "longitude": -73.886099
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/F6Avu8eH9lFMJClzqNaiAw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/I82VOZ0NX6i8SwcXQ8a8fA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/iL6IWrWXMl4OsgQ370F4ZA/o.jpg"
+    ],
+    "price": "$",
+    "transactions": []
+  },
+  {
+    "id": "ajIgKqqtreCd8zWGQCDXng",
+    "alias": "citi-line-realty-brooklyn",
+    "name": "Citi Line Realty",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oLqBcH3mfwP8gbo_yIDaOw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/citi-line-realty-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "+17182777400",
+    "display_phone": "(718) 277-7400",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "propertymgmt",
+        "title": "Property Management"
+      },
+      {
+        "alias": "realestatesvcs",
+        "title": "Real Estate Services"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "2936 Fulton St",
+      "address2": null,
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2936 Fulton St",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Ashford St & Cleveland St"
+    },
+    "coordinates": {
+      "latitude": 40.6792259216309,
+      "longitude": -73.8862457275391
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/tkeIsazHICE1TFylZqoTww/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/HFiKvYAzH8AT2TW3IDHe6g/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/RKS1IyU4bIPwVU2PEe5luA/o.jpg"
+    ],
+    "transactions": []
+  },
+  {
+    "id": "WuJDMG0nA967A_QDSL4roA",
+    "alias": "mobays-koal-pot-and-grill-brooklyn",
+    "name": "Mobay's Koal Pot and Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gxSHkTNWQbcSHE5DRSTYqA/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/mobays-koal-pot-and-grill-brooklyn?adjust_creative=qhmPUjeTY5esFiUyX2llLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=qhmPUjeTY5esFiUyX2llLA",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "caribbean",
+        "title": "Caribbean"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "2354 Pitkin Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11207",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "2354 Pitkin Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "cross_streets": "Ashford St & Warwick St"
+    },
+    "coordinates": {
+      "latitude": 40.673191,
+      "longitude": -73.885444
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/gxSHkTNWQbcSHE5DRSTYqA/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/kq3f5ibiZcmAsjQ6AUdiRw/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/N_Ey2hFvAfq6lkPNbADLcg/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "0000",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  }
+]

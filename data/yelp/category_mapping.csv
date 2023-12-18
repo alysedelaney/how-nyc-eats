@@ -1,0 +1,204 @@
+category,ethnicity_count,geographic_area,continent,by_ethnicity,by_dish,by_type,type_count,yelp_parent_category,top_level_category
+Acai Bowls,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Afghan,Afghan,South Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+African,African (General),African (General),African,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+American,American,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Arabic,Arabic,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Argentine,Argentine,South American,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Armenian,Armenian,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Asian Fusion,Asian Fusion,Asian Fusion,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Australian,Australian,Australian,Australian & Pacific Islander,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Austrian,Austrian,Central European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Bagels,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Bakeries,,,,FALSE,TRUE,TRUE,Bakeries,food,Food by Dish
+Bangladeshi,Bangladeshi,South Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Bar Crawl,,,,FALSE,FALSE,FALSE,,nightlife,Bars & Nightlife
+Barbeque,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Bars,,,,FALSE,FALSE,TRUE,Bars,nightlife,Bars & Nightlife
+Basque,Basque,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Beer Bar,,,,FALSE,FALSE,TRUE,Beer Bar,bars,Bars & Nightlife
+Beer Gardens,,,,FALSE,FALSE,TRUE,Beer Gardens,nightlife,Bars & Nightlife
+Belgian,Belgian,Western European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Brasseries,,,,FALSE,FALSE,FALSE,,restaurants,By Establishment Type
+Brazilian,Brazilian,South American,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Breakfast & Brunch,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Breweries,,,,FALSE,FALSE,TRUE,Breweries,food,By Establishment Type
+Brewpubs,,,,FALSE,FALSE,TRUE,Brewpubs,breweries,Bars & Nightlife
+British,British,Western European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Bubble Tea,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Buffets,,,,FALSE,FALSE,FALSE,,restaurants,By Establishment Type
+Burgers,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Burmese,Burmese,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Cafes,,,,FALSE,FALSE,TRUE,Cafes,restaurants,By Establishment Type
+Cafeteria,,,,FALSE,FALSE,TRUE,Cafeteria,restaurants,By Establishment Type
+Cajun/Creole,Cajun/Creole,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Cambodian,Cambodian,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Cantonese,Cantonese,Chinese,Asian,TRUE,FALSE,FALSE,,chinese,Food by Ethnicity
+Caribbean,Caribbean (General),Caribbean,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Catalan,Catalan,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Champagne Bars,,,,FALSE,FALSE,TRUE,Champagne Bars,bars,By Establishment Type
+Cheesesteaks,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Chicken Shop,,,,FALSE,TRUE,TRUE,Chicken Shop,restaurants,Food by Dish
+Chicken Wings,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Chinese,Chinese,Chinese,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Cideries,,,,FALSE,FALSE,TRUE,Cideries,food,By Establishment Type
+Cigar Bars,,,,FALSE,FALSE,TRUE,Cigar Bars,bars,Bars & Nightlife
+Club Crawl,,,,FALSE,FALSE,FALSE,,nightlife,Bars & Nightlife
+Cocktail Bars,,,,FALSE,FALSE,TRUE,Cocktail Bars,bars,Bars & Nightlife
+Coffee & Tea,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Colombian,Colombian,South American,Latin American,TRUE,FALSE,FALSE,,latin,Food by Ethnicity
+Comedy Clubs,,,,FALSE,FALSE,TRUE,Comedy Clubs,nightlife,Bars & Nightlife
+Comfort Food,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Conveyor Belt Sushi,,,,FALSE,FALSE,FALSE,,japanese,By Establishment Type
+Country Dance Halls,,,,FALSE,FALSE,TRUE,Country Dance Halls,nightlife,Bars & Nightlife
+Creperies,,,,FALSE,TRUE,TRUE,Creperies,restaurants,Food by Dish
+Cuban,Cuban,Caribbean,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Cupcakes,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Czech,Czech,Central European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Dance Clubs,,,,FALSE,FALSE,TRUE,Dance Clubs,nightlife,Bars & Nightlife
+Delis,,,,FALSE,FALSE,TRUE,Delis,restaurants,
+Desserts,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Dim Sum,,,,FALSE,TRUE,FALSE,,chinese,Food by Dish
+Diners,,,,FALSE,FALSE,TRUE,Diners,restaurants,By Establishment Type
+Dinner Theater,,,,FALSE,FALSE,TRUE,Dinner Theater,restaurants,By Establishment Type
+Distilleries,,,,FALSE,FALSE,TRUE,Distilleries,food,By Establishment Type
+Dive Bars,,,,FALSE,FALSE,TRUE,Dive Bars,bars,Bars & Nightlife
+Dominican,Dominican,Caribbean,Latin American,TRUE,FALSE,FALSE,,caribbean,Food by Ethnicity
+Donuts,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Egyptian,Egyptian,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,mideastern,Food by Ethnicity
+Empanadas,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Eritrean,Eritrean,East African,African,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Ethiopian,Ethiopian,East African,African,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Falafel,,,,FALSE,TRUE,FALSE,,mediterranean,Food by Dish
+Fast Food,,,,FALSE,FALSE,TRUE,Fast Food,restaurants,By Establishment Type
+Filipino,Filipino,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Fish & Chips,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Fondue,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Food Court,,,,FALSE,FALSE,TRUE,Food Court,restaurants,By Establishment Type
+Food Stands,,,,FALSE,FALSE,TRUE,Food Stands,restaurants,By Establishment Type
+Food Trucks,,,,FALSE,FALSE,TRUE,Food Trucks,food,By Establishment Type
+French,French,Western European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Gastropubs,,,,FALSE,FALSE,TRUE,Gastropubs,restaurants,By Establishment Type
+Gay Bars,,,,FALSE,FALSE,TRUE,Gay Bars,bars,Bars & Nightlife
+Gelato,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Georgian,Georgian,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+German,German,Central European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Gluten-Free,,,,FALSE,FALSE,FALSE,,restaurants,Food by Diet
+Greek,Greek,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Hainan,Hainan,Chinese,Asian,TRUE,FALSE,FALSE,,chinese,Food by Ethnicity
+Haitian,Haitian,Caribbean,Latin American,TRUE,FALSE,FALSE,,caribbean,Food by Ethnicity
+Halal,,,,FALSE,FALSE,FALSE,,restaurants,Food by Diet
+Hawaiian,Hawaiian,American,Australian & Pacific Islander,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Himalayan/Nepalese,Himalayan/Nepalese,South Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Honduran,Honduran,Central American,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Honey,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Hong Kong Style Cafe,,,,FALSE,FALSE,TRUE,Hong Kong Style Cafe,restaurants,By Establishment Type
+Hookah Bars,,,,FALSE,FALSE,TRUE,Hookah Bars,bars,Bars & Nightlife
+Hot Dogs,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Hot Pot,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Hungarian,Hungarian,Central European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Iberian,Iberian,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Ice Cream & Frozen Yogurt,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Indian,Indian,South Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Indonesian,Indonesian,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Internet Cafes,,,,FALSE,FALSE,TRUE,Internet Cafes,food,By Establishment Type
+Irish,Irish,Western European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Irish Pub,,,,FALSE,FALSE,TRUE,Irish Pub,bars,Bars & Nightlife
+Italian,Italian,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Izakaya,,,,FALSE,FALSE,TRUE,Izakaya,japanese,By Establishment Type
+Japanese,Japanese,East Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Japanese Curry,,,,FALSE,TRUE,FALSE,,japanese,Food by Dish
+Juice Bars & Smoothies,,,,FALSE,TRUE,TRUE,Juice Bars & Smoothies,food,Food by Dish
+Karaoke,,,,FALSE,FALSE,TRUE,Karaoke,nightlife,Bars & Nightlife
+Kebab,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Kombucha,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Korean,Korean,East Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Kosher,,,,FALSE,FALSE,FALSE,,restaurants,Food by Diet
+Laotian,Laotian,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Latin American,Latin American (General),Latin American (General),Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Lebanese,Lebanese,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,mideastern,Food by Ethnicity
+Lounges,,,,FALSE,FALSE,TRUE,Lounges,bars,Bars & Nightlife
+Malaysian,Malaysian,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Mediterranean,Mediterranean,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Mexican,Mexican,Mexican,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Middle Eastern,Middle Eastern (General),Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Modern European,Modern European,European (General),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Mongolian,Mongolian,East Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Moroccan,Moroccan,North African,African,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+New American,New American,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+New Mexican Cuisine,New Mexican Cuisine,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Nicaraguan,Nicaraguan,Central American,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Nightlife,,,,FALSE,FALSE,TRUE,Nightlife,nightlife,Bars & Nightlife
+Noodles,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Pakistani,Pakistani,South Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Pan Asian,Pan Asian,Asian Fusion,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Pancakes,,,,FALSE,TRUE,FALSE,,breakfast_brunch,Food by Dish
+Persian/Iranian,Persian/Iranian,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Peruvian,Peruvian,South American,Latin American,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Piadina,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Piano Bars,,,,FALSE,FALSE,TRUE,Piano Bars,nightlife,Bars & Nightlife
+Pizza,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Poke,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Polish,Polish,Central European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Pool Halls,,,,FALSE,FALSE,TRUE,Pool Halls,nightlife,Bars & Nightlife
+Pop-Up Restaurants,,,,FALSE,FALSE,FALSE,,restaurants,By Establishment Type
+Portuguese,Portuguese,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Poutineries,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Pretzels,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Pubs,,,,FALSE,FALSE,TRUE,Pubs,bars,Bars & Nightlife
+Puerto Rican,Puerto Rican,Caribbean,Latin American,TRUE,FALSE,FALSE,,caribbean,Food by Ethnicity
+Ramen,,,,FALSE,TRUE,FALSE,,japanese,Food by Dish
+Restaurants,,,,FALSE,FALSE,FALSE,,,Restaurants (General)
+Russian,Russian,Russian,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Salad,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Salvadoran,Salvadoran,Central American,Latin American,TRUE,FALSE,FALSE,,latin,Food by Ethnicity
+Sandwiches,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Sardinian,Sardinian,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,italian,Food by Ethnicity
+Scandinavian,Scandinavian,Scandinavian,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Scottish,Scottish,Western European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Seafood,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Senegalese,Senegalese,West African,African,TRUE,FALSE,FALSE,,african,Food by Ethnicity
+Shanghainese,Shanghainese,Chinese,Asian,TRUE,FALSE,FALSE,,chinese,Food by Ethnicity
+Shaved Ice,,,,FALSE,TRUE,FALSE,,food,Food by Dish
+Sicilian,Sicilian,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,italian,Food by Ethnicity
+Singaporean,Singaporean,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Slovakian,Slovakian,Central European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Smokehouse,,,,FALSE,FALSE,TRUE,Smokehouse,food,By Establishment Type
+Soul Food,Soul Food,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Soup,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+South African,South African,Southern African,African,TRUE,FALSE,FALSE,,african,Food by Ethnicity
+Southern,Southern,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Spanish,Spanish,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Speakeasies,,,,FALSE,FALSE,TRUE,Speakeasies,bars,Bars & Nightlife
+Sports Bars,,,,FALSE,FALSE,TRUE,Sports Bars,bars,Bars & Nightlife
+Sri Lankan,Sri Lankan,South Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Steakhouses,,,,FALSE,FALSE,FALSE,,restaurants,By Establishment Type
+Street Vendors,,,,FALSE,FALSE,TRUE,Street Vendors,food,By Establishment Type
+Supper Clubs,,,,FALSE,FALSE,FALSE,,restaurants,By Establishment Type
+Sushi Bars,,,,FALSE,FALSE,FALSE,,restaurants,By Establishment Type
+Syrian,Syrian,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Szechuan,Szechuan,Chinese,Asian,TRUE,FALSE,FALSE,,chinese,Food by Ethnicity
+Tacos,,,,FALSE,TRUE,FALSE,,mexican,Food by Dish
+Taiwanese,Taiwanese,East Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Tapas Bars,,,,FALSE,FALSE,TRUE,Tapas Bars,restaurants,By Establishment Type
+Tapas/Small Plates,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Tea Rooms,,,,FALSE,FALSE,TRUE,Tea Rooms,food,By Establishment Type
+Teppanyaki,,,,FALSE,TRUE,FALSE,,japanese,Food by Dish
+Tex-Mex,Tex-Mex,American,North American (United States & Canada),TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Thai,Thai,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Themed Cafes,,,,FALSE,FALSE,TRUE,Themed Cafes,cafes,By Establishment Type
+Tiki Bars,,,,FALSE,FALSE,TRUE,Tiki Bars,bars,Bars & Nightlife
+Trinidadian,Trinidadian,Caribbean,Latin American,TRUE,FALSE,FALSE,,caribbean,Food by Ethnicity
+Turkish,Turkish,Middle Eastern,Middle Eastern,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Tuscan,Tuscan,Southern European (Mediterranean),European,TRUE,FALSE,FALSE,,italian,Food by Ethnicity
+Ukrainian,Ukrainian,Eastern European,European,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Uzbek,Uzbek,Central Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Vegan,,,,FALSE,FALSE,FALSE,,restaurants,Food by Diet
+Vegetarian,,,,FALSE,FALSE,FALSE,,restaurants,Food by Diet
+Venezuelan,Venezuelan,South American,Latin American,TRUE,FALSE,FALSE,,latin,Food by Ethnicity
+Vermouth Bars,,,,FALSE,FALSE,TRUE,Vermouth Bars,bars,Bars & Nightlife
+Vietnamese,Vietnamese,Southeast Asian,Asian,TRUE,FALSE,FALSE,,restaurants,Food by Ethnicity
+Waffles,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish
+Whiskey Bars,,,,FALSE,FALSE,TRUE,Whiskey Bars,bars,Bars & Nightlife
+Wine Bars,,,,FALSE,FALSE,TRUE,Wine Bars,bars,Bars & Nightlife
+Wraps,,,,FALSE,TRUE,FALSE,,restaurants,Food by Dish

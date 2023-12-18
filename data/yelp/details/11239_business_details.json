@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "6uqkmJkAe2yykPtbwpD9hg",
+    "alias": "cvs-pharmacy-brooklyn-5",
+    "name": "CVS Pharmacy",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gZ57dlepu08iVO6GQDuZJA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cvs-pharmacy-brooklyn-5?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17186422727",
+    "display_phone": "(718) 642-2727",
+    "review_count": 12,
+    "categories": [
+      {
+        "alias": "drugstores",
+        "title": "Drugstores"
+      },
+      {
+        "alias": "pharmacy",
+        "title": "Pharmacy"
+      },
+      {
+        "alias": "convenience",
+        "title": "Convenience Stores"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "1346 Pennsylvania Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1346 Pennsylvania Ave",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": "Vandalia Ave & Croton Loop"
+    },
+    "coordinates": {
+      "latitude": 40.64712,
+      "longitude": -73.882857
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/Geoib7nPtnsBJN3oNcZE6A/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/uHiK7Lm2Zs77IyW4lScfZA/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "6rd9ewI18DCq6vdT-SaB4w",
+    "alias": "boulder-creek-steakhouse-brooklyn-2",
+    "name": "Boulder Creek Steakhouse",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rys8D6RyvyuWabHIwjjxSg/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/boulder-creek-steakhouse-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17182770222",
+    "display_phone": "(718) 277-0222",
+    "review_count": 83,
+    "categories": [
+      {
+        "alias": "steak",
+        "title": "Steakhouses"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "355 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "355 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.64973,
+      "longitude": -73.8718899
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/i_C8UoCEFyKY-F9zzaX6wA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/VPVIzc8pU5YttcrkExsd8Q/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/9jnS0ZnEZgitZzVI2E8w-Q/o.jpg"
+    ],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "e9GjmCFZPy4AwPCtfcHWNg",
+    "alias": "davis-visionworks-brooklyn-10",
+    "name": "Davis Visionworks",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7a6DMeht7rw_tOG4kdZ6Yg/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/davis-visionworks-brooklyn-10?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17182773120",
+    "display_phone": "(718) 277-3120",
+    "review_count": 26,
+    "categories": [
+      {
+        "alias": "optometrists",
+        "title": "Optometrists"
+      },
+      {
+        "alias": "opticians",
+        "title": "Eyewear & Opticians"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "494 Gateway Dr",
+      "address2": "Unit K1 2",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "494 Gateway Dr",
+        "Unit K1 2",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6502833996033,
+      "longitude": -73.8701513351654
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ch9jvhrdQ2tCHgNRRjwS9A/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1800",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "bewHSC5u7Kc1cqlvXe8xLA",
+    "alias": "target-brooklyn-6",
+    "name": "Target",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K5NlRKd2h4Gbo-t6QRzisA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/target-brooklyn-6?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17182356032",
+    "display_phone": "(718) 235-6032",
+    "review_count": 117,
+    "categories": [
+      {
+        "alias": "deptstores",
+        "title": "Department Stores"
+      },
+      {
+        "alias": "furniture",
+        "title": "Furniture Stores"
+      },
+      {
+        "alias": "electronics",
+        "title": "Electronics"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "519 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "519 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.652462,
+      "longitude": -73.870271
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/SUiDebqQlG5e0uT2NHNWMA/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/yQG5-QPe34dZJBmfTt4yvA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/W7Wp1NSb96C0s0fU0iD35A/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": [],
+    "special_hours": [
+      {
+        "date": "2023-12-10",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-11",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-12",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-13",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-14",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-15",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-16",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-17",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-18",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-19",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-20",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-21",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-22",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-23",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2359",
+        "is_overnight": false
+      },
+      {
+        "date": "2023-12-24",
+        "is_closed": null,
+        "start": "0700",
+        "end": "2000",
+        "is_overnight": false
+      }
+    ]
+  },
+  {
+    "id": "sm0C7Ag1a5bUvN1U6T-Ktg",
+    "alias": "gap-factory-brooklyn-3",
+    "name": "Gap Factory",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9JPqxcUIOQPCpctGA9ji2w/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/gap-factory-brooklyn-3?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+16077973075",
+    "display_phone": "(607) 797-3075",
+    "review_count": 12,
+    "categories": [
+      {
+        "alias": "womenscloth",
+        "title": "Women's Clothing"
+      },
+      {
+        "alias": "menscloth",
+        "title": "Men's Clothing"
+      },
+      {
+        "alias": "childcloth",
+        "title": "Children's Clothing"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "528 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "528 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.65341,
+      "longitude": -73.87149
+    },
+    "photos": [
+      "https://s3-media3.fl.yelpcdn.com/bphoto/9JPqxcUIOQPCpctGA9ji2w/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/LJIRV5hRlu0xeHPEQFDCzQ/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/LiTyBsvLHl83-vIto4j6Aw/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1800",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/sm0C7Ag1a5bUvN1U6T-Ktg?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w#popup%3Araq",
+      "use_case_text": "Message the Business"
+    }
+  },
+  {
+    "id": "dOlw2mUPFdvLioHVN5z1Ww",
+    "alias": "babies-r-us-brooklyn-2",
+    "name": "Babies R Us",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z6YiAizNl-F9sVBFwBozgg/o.jpg",
+    "is_claimed": false,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/babies-r-us-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17182773400",
+    "display_phone": "(718) 277-3400",
+    "review_count": 29,
+    "categories": [
+      {
+        "alias": "baby_gear",
+        "title": "Baby Gear & Furniture"
+      }
+    ],
+    "rating": 2.5,
+    "location": {
+      "address1": "395 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "395 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6506652832031,
+      "longitude": -73.870735168457
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/GbfZ8Q9mZnSwKRvVNKtS1w/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/R5LVliCnciGWCzSQjjso4Q/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/GvCgVS7uV6xdV3GNYFZYxA/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "YGksLal9W_p6EYmPbG8NWA",
+    "alias": "arthur-h-gerber-md-brooklyn",
+    "name": "Arthur H Gerber, MD",
+    "image_url": "",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/arthur-h-gerber-md-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17186428219",
+    "display_phone": "(718) 642-8219",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "opthamalogists",
+        "title": "Ophthalmologists"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "1180 Elton St",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1180 Elton St",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.655842,
+      "longitude": -73.87367
+    },
+    "photos": [],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1630",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1630",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1630",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1630",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1530",
+            "day": 4
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": [],
+    "messaging": {
+      "url": "https://www.yelp.com/raq/YGksLal9W_p6EYmPbG8NWA?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w#popup%3Araq",
+      "use_case_text": "Message the Business"
+    }
+  },
+  {
+    "id": "K1xwjpKctCzl3JlQITvSXw",
+    "alias": "gateway-center-brooklyn-2",
+    "name": "Gateway Center",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wp5ENt3QgtIR3S6lS1DyHA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/gateway-center-brooklyn-2?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 98,
+    "categories": [
+      {
+        "alias": "shoppingcenters",
+        "title": "Shopping Centers"
+      }
+    ],
+    "rating": 3.5,
+    "location": {
+      "address1": "409 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "409 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.652052,
+      "longitude": -73.871599
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/wp5ENt3QgtIR3S6lS1DyHA/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/OobmOBG2v7wIlViYiHOQiw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/LWq-TL4rEWsg8GPQJ6EkxQ/o.jpg"
+    ],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "1gAjkR_TBT0ZuDbBLvnl6Q",
+    "alias": "dunkin-brooklyn-18",
+    "name": "Dunkin'",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1qTTjMXpSe53efQYxBquLw/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dunkin-brooklyn-18?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+19176352896",
+    "display_phone": "(917) 635-2896",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "donuts",
+        "title": "Donuts"
+      }
+    ],
+    "rating": 4.0,
+    "location": {
+      "address1": "590 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "590 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.654996,
+      "longitude": -73.870042
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/1qTTjMXpSe53efQYxBquLw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/dxI0uNwrIdZIXKw2teGFrw/o.jpg",
+      "https://s3-media2.fl.yelpcdn.com/bphoto/tyyB1amqcap9hOzgi74ezQ/o.jpg"
+    ],
+    "price": "$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "Ol7U9UhZO09qyLIaKnOITg",
+    "alias": "sephora-east-new-york",
+    "name": "Sephora",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W3qnxUq6SmnfjXDJEDnmPA/o.jpg",
+    "is_claimed": false,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sephora-east-new-york?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "",
+    "display_phone": "",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "cosmetics",
+        "title": "Cosmetics & Beauty Supply"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "521-537 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "East New York",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "521-537 Gateway Dr",
+        "East New York, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.65220977534282,
+      "longitude": -73.87638416241623
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/W3qnxUq6SmnfjXDJEDnmPA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/ZVLeqP-zinwUMaPr0ckwKg/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/51yH2X9E7n30JtAUykCHOw/o.jpg"
+    ],
+    "price": "$$",
+    "transactions": []
+  },
+  {
+    "id": "EXGtxSboeS9bQbIKqS7FzA",
+    "alias": "sports-authority-brooklyn",
+    "name": "Sports Authority",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dXb8JirPKZ69K1e7Au0itA/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/sports-authority-brooklyn?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17183061577",
+    "display_phone": "(718) 306-1577",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "sportgoods",
+        "title": "Sporting Goods"
+      }
+    ],
+    "rating": 3.0,
+    "location": {
+      "address1": "550 Gateway Dr.",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "550 Gateway Dr.",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.6548412680858,
+      "longitude": -73.8699565505997
+    },
+    "photos": [
+      "https://s3-media4.fl.yelpcdn.com/bphoto/40XGABB9HgRqqBTP5cXMRg/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/xc6kvdwVfXHoQtr1YZ7ocg/o.jpg",
+      "https://s3-media4.fl.yelpcdn.com/bphoto/TlrRInHNDDW0GviVGQC1UQ/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "dhXs_HoxjqrXBoCMPGIhdA",
+    "alias": "lav-pest-control-brooklyn-5",
+    "name": "Lav Pest Control",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K2fj3-K5fKCG0LdiCaXwIg/o.jpg",
+    "is_claimed": true,
+    "is_closed": true,
+    "url": "https://www.yelp.com/biz/lav-pest-control-brooklyn-5?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+13475465619",
+    "display_phone": "(347) 546-5619",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "pest_control",
+        "title": "Pest Control"
+      }
+    ],
+    "rating": 5.0,
+    "location": {
+      "address1": "579 Gateway Dr",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "579 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.654103,
+      "longitude": -73.868319
+    },
+    "photos": [
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ccOZP8xwuRlp0cfPSs-HaQ/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/e1WH1DbUzjKBg-nZvK-4Dw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/ZMMsx-OfaIxjVMqEVxoM_Q/o.jpg"
+    ],
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "transactions": []
+  },
+  {
+    "id": "WSrRwPmPEJO1l-FTwznYCg",
+    "alias": "the-home-depot-brooklyn-3",
+    "name": "The Home Depot",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0jC5gY0wQ0N5-EWYU4Q8rQ/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-home-depot-brooklyn-3?adjust_creative=8TCRkOcmV2uGUHgLd8iG7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=8TCRkOcmV2uGUHgLd8iG7w",
+    "phone": "+17188279568",
+    "display_phone": "(718) 827-9568",
+    "review_count": 77,
+    "categories": [
+      {
+        "alias": "gardening",
+        "title": "Nurseries & Gardening"
+      },
+      {
+        "alias": "hardware",
+        "title": "Hardware Stores"
+      },
+      {
+        "alias": "appliances",
+        "title": "Appliances"
+      }
+    ],
+    "rating": 2.0,
+    "location": {
+      "address1": "579 Gateway Dr",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11239",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "579 Gateway Dr",
+        "Brooklyn, NY 11239"
+      ],
+      "cross_streets": ""
+    },
+    "coordinates": {
+      "latitude": 40.653607950457,
+      "longitude": -73.8686478137971
+    },
+    "photos": [
+      "https://s3-media2.fl.yelpcdn.com/bphoto/SEEoNOf68QB0IEIj0lSLDw/o.jpg",
+      "https://s3-media1.fl.yelpcdn.com/bphoto/WN140yQG2q7NE2WySMkueA/o.jpg",
+      "https://s3-media3.fl.yelpcdn.com/bphoto/6oFJfpsScDm4jm0RAjTqoQ/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "transactions": []
+  }
+]
